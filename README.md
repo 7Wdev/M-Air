@@ -19,6 +19,7 @@ Github\Controller.py + HandTracking.py
 ----------
 
 Snowy: I coded this script for educational purposes and for fun...
+
 NOTE: you may have to install the dependencies using pipe in order the script to work!
 
 ----------
