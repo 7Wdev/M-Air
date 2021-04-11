@@ -1,6 +1,6 @@
 # 7Wdev !
 # M-Air is a free tool for contorling your cursor by moving your hand in air.
-# all credits for: Snowy (SnowyDragon)!
+# all credits for: Snowy (SnowyDragon) !
 
 from math import sqrt
 import cv2
